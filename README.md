@@ -1,0 +1,2 @@
+Project title:Function Arguments Demonstration in Python
+I developed a Python program to understand and demonstrate the different types of function arguments used in Python. In this project, I implemented separate functions to showcase required, keyword, default, and variable-length arguments (*args). Through this implementation, I learned how functions accept and process data in different ways, improving code flexibility, modularity, and reusability. This project strengthened my understanding of Python functions and enhanced my programming fundamentals.
